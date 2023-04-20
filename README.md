@@ -12,17 +12,18 @@ Support Vector Machine or SVM is one of the most popular Supervised Learning alg
 Number of Attributes:|12|
 
 ## Results
+
 | Sample | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
-|--------|---------------|-------------|---------|--------------|
-| 0      | 1             | poly        | 0.54    | 0.25         |
-| 1      | 2             | rbf         | 7.25    | 5.11         |
-| 2      | 3             | poly        | 0.19    | 2.50         |
-| 3      | 4             | rbf         | 1.64    | 7.45         |
-| 4      | 5             | rbf         | 4.52    | 9.81         |
-| 5      | 6             | sigmoid     | 6.71    | 1.00         |
-| 6      | 7             | rbf         | 9.24    | 7.97         |
-| 7      | 8             | sigmoid     | 3.41    | 3.43         |
-| 8      | 9             | poly        | 6.39    | 4.73         |
-| 9      | 10            | rbf         | 2.99    | 9.72         |
+| ------ | ------------- | ----------- | ------- | ------------ |
+| 0      | 1             | rbf         | 1.62    | 1.88         |
+| 1      | 2             | rbf         | 3.21    | 5.60         |
+| 2      | 3             | rbf         | 1.21    | 4.08         |
+| 3      | 4             | rbf         | 6.07    | 8.60         |
+| 4      | 5             | rbf         | 2.75    | 8.04         |
+| 5      | 6             | rbf         | 7.60    | 9.53         |
+| 6      | 7             | rbf         | 1.30    | 6.58         |
+| 7      | 8             | sigmoid    | 6.61    | 0.45         |
+| 8      | 9             | rbf         | 5.01    | 3.58         |
+| 9      | 10            | sigmoid    | 0.27    | 1.02         |
 
 ![image](https://raw.githubusercontent.com/gomsi314/assignment5/main/download_graph.png)
